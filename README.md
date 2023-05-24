@@ -2,5 +2,5 @@
 
 
 - 🔭  Estou trabalhando  como Operador de suporte (TI)
-- 🌱  Estudando Programação na Digital Innovations
+- 🌱  Estudando Analise e desenvolvimento de sistenas
 
