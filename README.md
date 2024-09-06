@@ -8,7 +8,6 @@ Sou Estudante de Analise e desenvolvimento de Sistemas . Atualmente, trabalho na
 
 - 📍 Localização: Porto ALegre - Brasil
 - 🌱 Atualmente aprendendo: Typescript, Python, Uso de Ai, CSS, PHP...
-- 💼 Atualmente trabalhando em: delivery
 - 📫 Como me encontrar: Ezequieladrielprr4@gmail.com 
 
 ## Habilidades Técnicas
