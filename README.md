@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Ezequiel Adriel!
+# 👋 Olá, eu sou Ezequiel Farias!
 
 
 
