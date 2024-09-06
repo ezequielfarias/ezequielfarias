@@ -13,7 +13,7 @@ Sou um Técnico de informatica Helpdesk N2 . Atualmente, trabalho na Convergint 
 
 ## Habilidades Técnicas
 
-**Linguagens de Programação**: 
+##Linguagens de Programação##: 
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -21,7 +21,7 @@ Sou um Técnico de informatica Helpdesk N2 . Atualmente, trabalho na Convergint 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks e Bibliotecas**: 
+##Frameworks e Bibliotecas##: 
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Ferramentas e Plataformas
