@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Sou um Técnico de informatica Helpdesk N2 . Atualmente, trabalho na Convergint como Técnico de informatica Helpdesk N2. Sou apaixonado por Desenvolvimento Web e Cibersegurança.
+Sou Estudante de Analise e desenvolvimento de Sistemas . Atualmente, trabalho na Convergint como Técnico de informatica Helpdesk N2. Sou apaixonado por Desenvolvimento Web e Cibersegurança.
 
 - 📍 Localização: Porto ALegre - Brasil
 - 🌱 Atualmente aprendendo: Typescript, Python, Uso de Ai, CSS, PHP...
