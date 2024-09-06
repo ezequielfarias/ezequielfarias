@@ -24,12 +24,6 @@ Sou um Técnico de informatica Helpdesk N2 . Atualmente, trabalho na Convergint 
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)
-
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/ezequieladriel2/)
