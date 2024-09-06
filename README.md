@@ -14,9 +14,6 @@ Sou um Técnico de informatica Helpdesk N2 . Atualmente, trabalho na Convergint 
 ## Habilidades Técnicas
 
 ### Linguagens de Programação
--![image](https://github.com/user-attachments/assets/d9c13047-71e6-49f0-a467-f61b49e68765)
-
--![HTML](https://icons8.com/icon/20909/html-5)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
