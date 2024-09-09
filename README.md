@@ -35,7 +35,11 @@ Frameworks e Bibliotecas:
 
 ## Projetos
 - Ciber-imersão
-https://github.com/user-attachments/assets/0c6b5e57-b34a-4a82-b765-d50600df3f68
+
+
+https://github.com/user-attachments/assets/287f0243-eddc-4af8-b8eb-322e4381539a
+
+
 
 
 
