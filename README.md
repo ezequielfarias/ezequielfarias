@@ -33,6 +33,14 @@ Frameworks e Bibliotecas:
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+## Projetos
+- Ciber-imersão
+
+
+https://github.com/user-attachments/assets/46aa273b-17b7-4c5d-88e2-f580e3dd3551
+
+
+
 ## Contato
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequieladriel2/) 
