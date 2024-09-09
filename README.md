@@ -40,7 +40,16 @@ Frameworks e Bibliotecas:
 https://github.com/user-attachments/assets/287f0243-eddc-4af8-b8eb-322e4381539a
 
 
+- Cadastro de professor e aluno
 
+
+https://github.com/user-attachments/assets/1521b8a4-34ff-4909-9c53-c90031abc5d4
+
+
+-Python: tabuada e lista
+
+
+https://github.com/user-attachments/assets/21b3ed8f-745c-4e59-a861-32001e22df9a
 
 
 
