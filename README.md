@@ -44,7 +44,11 @@ Frameworks e Bibliotecas:
 - Teach.me
 
 
-https://github.com/user-attachments/assets/4595da75-c1a9-4ee7-bca2-6e90a12079e2
+https://github.com/user-attachments/assets/e7ae318f-f8e2-46d2-b16c-b55b715037df
+
+
+
+
 
 
 
