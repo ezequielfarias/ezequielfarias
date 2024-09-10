@@ -33,10 +33,11 @@ Frameworks e Bibliotecas:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Ferramentas e Plataformas
- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-181717?style=for-the-badge&logo=github&logoColor=white)
 ## Contato
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequieladriel2/) 
