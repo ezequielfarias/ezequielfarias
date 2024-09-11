@@ -45,6 +45,13 @@ Frameworks e Bibliotecas:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequieladrielprr4@gmail.com)
 
 ## Projetos
+- Projeto_N2
+
+
+https://github.com/user-attachments/assets/f20985dd-4e64-4270-8f41-d029b6380822
+
+
+
 - Teach.me
 
 
