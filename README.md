@@ -10,7 +10,7 @@ Sou Estudante de Analise e desenvolvimento de Sistemas . Atualmente, trabalho na
 - 🌱 Atualmente aprendendo ou deseja aprender: Typescript, Python, Uso de Ai, CSS, PHP...
 - 📫 Como me encontrar: Ezequieladrielprr4@gmail.com 
 
-## Linguagem já usada nos projetos!
+## Linguagens já usada em projetos!
 
 Linguagens de Programação: 
 
