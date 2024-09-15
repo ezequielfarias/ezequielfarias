@@ -7,10 +7,10 @@
 Sou Estudante de Analise e desenvolvimento de Sistemas . Atualmente, trabalho na Convergint como Técnico de informatica Helpdesk N2. Sou apaixonado por Desenvolvimento Web e Cibersegurança.
 
 - 📍 Localização: Porto ALegre - Brasil
-- 🌱 Atualmente aprendendo: Typescript, Python, Uso de Ai, CSS, PHP...
+- 🌱 Atualmente aprendendo ou deseja aprender: Typescript, Python, Uso de Ai, CSS, PHP...
 - 📫 Como me encontrar: Ezequieladrielprr4@gmail.com 
 
-## Habilidades Técnicas
+## Linguagem já usada nos projetos!
 
 Linguagens de Programação: 
 
