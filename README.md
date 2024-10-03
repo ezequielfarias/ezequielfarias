@@ -47,6 +47,12 @@ Frameworks e Bibliotecas:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequieladrielprr4@gmail.com)
 
 ## Projetos
+- Forms(Trabalhe conosco)
+
+
+https://github.com/user-attachments/assets/2ae37cf9-b523-4047-addd-81b66f921e5b
+
+
 - Tributo-jr
 
 
