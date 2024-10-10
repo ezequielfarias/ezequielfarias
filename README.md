@@ -47,6 +47,12 @@ Frameworks e Bibliotecas:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequieladrielprr4@gmail.com)
 
 ## Projetos
+- HDC Host
+
+
+https://github.com/user-attachments/assets/511375cb-ec64-4604-b18e-a0f8eb568cc3
+
+
 - Two Day
 
 
