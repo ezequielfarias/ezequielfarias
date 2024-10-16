@@ -47,10 +47,19 @@ Frameworks e Bibliotecas:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequieladrielprr4@gmail.com)
 
 ## Projetos
+- Instagram 2.0
+
+
+https://github.com/user-attachments/assets/f3f43171-9dcc-4e5d-a623-c942b707142c
+
+
+
 - Galvão Garage
 
 
-https://github.com/user-attachments/assets/842347bb-413c-4968-97c2-f0b5872be28f
+https://github.com/user-attachments/assets/92e6c173-fa61-44e3-8706-e04dba2b6566
+
+
 
 
 - HDC Host
