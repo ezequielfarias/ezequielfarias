@@ -47,6 +47,13 @@ Frameworks e Bibliotecas:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequieladrielprr4@gmail.com)
 
 ## Projetos
+- Blog
+
+
+https://github.com/user-attachments/assets/79c1adbf-96e7-499c-9595-a00a1bee87ce
+
+
+
 - Instagram 2.0
 
 
