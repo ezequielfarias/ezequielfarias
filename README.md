@@ -47,6 +47,14 @@ Frameworks e Bibliotecas:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequieladrielprr4@gmail.com)
 
 ## Projetos
+- Spotify JESUS : Imersão Alura
+
+
+https://github.com/user-attachments/assets/6a495a13-4663-47cc-bab9-ab55cd5b9793
+
+
+
+
 - Blog
 
 
