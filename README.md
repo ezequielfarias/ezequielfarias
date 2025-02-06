@@ -47,6 +47,16 @@ Frameworks e Bibliotecas:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequieladrielprr4@gmail.com)
 
 ## Projetos
+- QR-CODE
+
+
+
+https://github.com/user-attachments/assets/3af9229b-eeb1-49c5-be40-24e0318f30ee
+
+
+
+
+
 - Tabuada-JS 
 
 
