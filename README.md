@@ -47,6 +47,13 @@ Frameworks e Bibliotecas:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequieladrielprr4@gmail.com)
 
 ## Projetos
+- Tabuada-JS 
+
+
+https://github.com/user-attachments/assets/3f5aad6b-7c55-45c8-8f5a-83466c0b2649
+
+
+
 - Spotify JESUS : Imersão Alura
 
 
