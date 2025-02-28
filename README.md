@@ -47,6 +47,15 @@ Frameworks e Bibliotecas:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequieladrielprr4@gmail.com)
 
 ## Projetos
+
+- CALCULADORA DE IMC
+
+
+https://github.com/user-attachments/assets/fd7e5f8c-e7f4-46bd-9c47-85d53218f279
+
+
+
+
 - Iphone 
 
 
